@@ -35,6 +35,45 @@ We’ve released two versions of software for farming Grass:
 
 Invite your friends and colleagues to join! 🚀
 
+# How to use? Documentation
+### Setting Up CAPTCHA Key
+- In the `Data` folder, open the `config.ini` file.
+- Specify the CAPTCHA-solving service `api key` for 2Captcha.
+### Adding Email Accounts
+- In the `Data` folder, use the `emails.txt` file.
+- Add email accounts in the format: `email:password`.
+- Ensure the email accounts support `IMAP`; otherwise, verification will fail.
+### Adding Proxies
+- In the `Data` folder, use the `proxy.txt` file.
+- Add proxies in the format: `ip:port` or `login:password@ip:port`.
+### Account Registration
+- Successful registrations will be saved in the `reg_goods.txt` file.
+- Emails that failed to register will be listed in the `reg_bads.txt` file.
+### Preparing Accounts for Farming
+- Move successfully registered accounts from `reg_goods.txt` to the `accs.txt` file in the `Data` folder.
+- Ensure `proxy.txt` contains proxies in the required format.
+- Start the farming process.
+### Email Verification
+- Place accounts to be verified in the `accs.txt` file in the `Data` folder.
+- Use the `proxy.txt` file for proxies in the specified format.
+- Successfully verified accounts will be saved in `approveEmail_goods.txt`.
+- Failed verifications will be listed in `approveEmail_bads.txt`. These accounts can be reattempted, as some might pass on subsequent tries.
+### Wallet Binding
+- Add accounts needing wallet binding to the `accs.txt` file in the `Data` folder.
+- Use `proxy.txt` for proxy configurations.
+- Successfully bound wallets will be logged in `addWallet_goods.txt`, with additional wallet details appended in the format: `|wallet|seed phrase|wallet_private_key`.
+- Failed bindings will be logged in `addWallet_bads.txt`. Retry binding for failed accounts.
+### Wallet Email Verification
+- Add accounts for email verification of wallets to the `accs.txt` file in the `Data` folder.
+- Use the `proxy.txt` file for proxies.
+- Successfully verified accounts will be saved in `approveWalletEmail_goods.txt`.
+- Failed verifications will appear in `approveWalletEmail_bads.txt`. Retry failed accounts if needed.
+### Collecting Reward Tiers
+- This mode collects rewards based on specific point or referral thresholds. Frequent use is unnecessary.
+- Add accounts for reward collection to the `accs.txt` file in the `Data` folder.
+- Use `proxy.txt` for proxies.
+
+
 # 🔗 Contacts
 - 📩 Telegram chat: https://t.me/+C_3h-RZe55xjZTli
 - 📩 Telegram channel: https://t.me/CRYPT0_HER

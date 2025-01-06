@@ -36,6 +36,10 @@ We’ve released two versions of software for farming Grass:
 Invite your friends and colleagues to join! 🚀
 
 # How to use? Documentation
+### Installation
+**Software will autimatically install in: C:\Program Files (x86)\GrassBot_v1.5**
+**You cannot change the location directory of the software**
+
 ### Setting Up CAPTCHA Key
 - In the `Data` folder, open the `config.ini` file.
 - Specify the CAPTCHA-solving service `api key` for 2Captcha.

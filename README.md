@@ -6,6 +6,9 @@ Automate farming grass GetGrass.io with our auto bot! 🚀 Farm supports multi-a
 - 📩 Telegram channel: https://t.me/CRYPT0_HER
 - 📩 Developer: https://t.me/CRYPT0HER
 
+# Residential Proxy $1.5/GB
+- 📩 Telegram Bot: https://t.me/CRYPT0HER_proxyBot
+
 # 🎉 GRASS is Ready! 🎉
 
 We’ve released two versions of software for farming Grass:
@@ -83,3 +86,6 @@ Invite your friends and colleagues to join! 🚀
 - 📩 Telegram chat: https://t.me/+C_3h-RZe55xjZTli
 - 📩 Telegram channel: https://t.me/CRYPT0_HER
 - 📩 Developer: https://t.me/CRYPT0HER
+
+# Residential Proxy $1.5/GB
+- 📩 Telegram Bot: https://t.me/CRYPT0HER_proxyBot

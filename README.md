@@ -51,7 +51,7 @@ Invite your friends and colleagues to join! 🚀
 
 ### Setting Up CAPTCHA Key
 - In the `Data` folder, open the `config.ini` file.
-- Specify the CAPTCHA-solving service `api key` for 2Captcha.
+- Specify the CAPTCHA-solving service `api key` for [Capsolver.com](https://dashboard.capsolver.com/passport/register?inviteCode=bx9MlmqkIjjb)
 ### Adding Email Accounts
 - In the `Data` folder, use the `emails.txt` file.
 - Add email accounts in the format: `email:password`.

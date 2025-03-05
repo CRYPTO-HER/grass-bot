@@ -7,7 +7,7 @@ Automate farming grass GetGrass.io with our auto bot! 🚀 Farm supports multi-a
 - 📩 Developer: https://t.me/CRYPT0HER
 
 ## Residential Proxy $1.5/GB
-- 📩 Telegram Bot: https://t.me/CRYPT0HER_proxyBot
+- 📩 Telegram Bot: [https://t.me/CRYPT0HER_proxyBot](https://t.me/CRYPT0HER_proxysBot)
 
 ## Stable VPS/VDS servers for crypto farming
 - [VPS/VDS servers for farming](https://powervps.net/?from=77161)
@@ -91,4 +91,4 @@ Invite your friends and colleagues to join! 🚀
 - 📩 Developer: https://t.me/CRYPT0HER
 
 # Residential Proxy $1.5/GB
-- 📩 Telegram Bot: https://t.me/CRYPT0HER_proxyBot
+- 📩 Telegram Bot: [https://t.me/CRYPT0HER_proxyBot](https://t.me/CRYPT0HER_proxysBot)
